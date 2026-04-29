@@ -1,0 +1,6 @@
+{
+  "appId": "com.melisa.whalemanager",
+  "appName": "WhaleMovies",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
